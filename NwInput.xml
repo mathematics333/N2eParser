@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<exchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd" units="ft" filename="20231028_122507-B-3DC.nwd" filepath="C:\Users\WN001\Dropbox\0\001-PROJECTS\MY_Page\122507 T-ISO">
+  <viewpoints>
+    <viewfolder name="02-ISSUES" guid="fccd5813-1981-44ff-9fb6-f9107e8656be">
+      <viewfolder name="*ACTIVE_12/06* " guid="05a24de5-ba51-4b84-b078-3cb9fe5210e8">
+        <view name="ARCH_VS_ARCH_12/06 - *ACTIVE_12/19* " guid="4c7be651-7519-44ae-9696-9e034f4bb760">
+          <viewpoint tool="navigator_walk" render="shaded" lighting="headlight" linear="70.5735524113" angular="0.7853981634">
+            <camera projection="persp" near="0.2500000000" far="3568.6810920660" aspect="1.7777777778" height="1.3292388950">
+              <position>
+                <pos3f x="1750.5484768499" y="1176.8467910104" z="26.1834575198"/>
+              </position>
+              <rotation>
+                <quaternion a="0.0862780725" b="0.4540678312" c="0.8711923818" d="0.1655364999"/>
+              </rotation>
+            </camera>
+            <viewer radius="0.9842519685" height="5.9055118110" actual_height="5.9055118110" eye_height="0.4921259843" avatar="" camera_mode="first" first_to_third_angle="0.0000000000" first_to_third_distance="9.8425196850" first_to_third_param="1.0000000000" first_to_third_correction="1" collision_detection="0" auto_crouch="0" gravity="0" gravity_value="32.1522309711" terminal_velocity="164.0419947507"/>
+            <primitives polygons="1" lines="1" points="1" snappoints="1" text="1"/>
+            <up>
+              <vec3f x="0.0000000000" y="0.0000000000" z="1.0000000000"/>
+            </up>
+          </viewpoint>
+          <clipplaneset linked="0" current="0" mode="planes" enabled="0">
+            <range>
+              <box3f>
+                <min>
+                  <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+                </min>
+                <max>
+                  <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+                </max>
+              </box3f>
+            </range>
+            <clipplanes>
+              <clipplane state="default" distance="0.0000000000" alignment="top">
+                <plane distance="-10.9366626610">
+                  <vec3f x="0.0000000000" y="0.0000000000" z="-1.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="bottom">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="front">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="back">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="left">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="right">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+            </clipplanes>
+            <box>
+              <box3f>
+                <min>
+                  <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+                </min>
+                <max>
+                  <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+                </max>
+              </box3f>
+            </box>
+            <box-rotation>
+              <rotation>
+                <quaternion a="0.0000000000" b="0.0000000000" c="0.0000000000" d="1.0000000000"/>
+              </rotation>
+            </box-rotation>
+          </clipplaneset>
+          <redlines>
+            <rlellipse thickness="3" pattern="65535">
+              <colour red="1.0000000000" green="0.0000000000" blue="1.0000000000"/>
+              <start>
+                <pos2f x="-0.4846299912" y="0.6340817549"/>
+              </start>
+              <end>
+                <pos2f x="1.1230647101" y="-0.2626288276"/>
+              </end>
+            </rlellipse>
+          </redlines>
+        </view>
+        <view name="ELEC_VS_ARCH_12/19 - *ACTIVE_12/19* " guid="7fb42cc0-ba92-4129-a536-2d4407213a83">
+          <viewpoint tool="navigator_walk" render="shaded" lighting="headlight" linear="70.5735524113" angular="0.7853981634">
+            <camera projection="persp" near="4.8562940063" far="608.0303102731" aspect="1.4844649022" height="1.3704433607">
+              <position>
+                <pos3f x="1391.8853895513" y="1050.9513547164" z="29.8017171544"/>
+              </position>
+              <rotation>
+                <quaternion a="0.1310202162" b="0.0006639250" c="0.0050236003" d="0.9913667463"/>
+              </rotation>
+            </camera>
+            <viewer radius="0.9842519685" height="5.9055118110" actual_height="5.9055118110" eye_height="0.4921259843" avatar="" camera_mode="first" first_to_third_angle="0.0000000000" first_to_third_distance="9.8425196850" first_to_third_param="1.0000000000" first_to_third_correction="1" collision_detection="0" auto_crouch="0" gravity="0" gravity_value="32.1522309711" terminal_velocity="164.0419947507"/>
+            <primitives polygons="1" lines="1" points="1" snappoints="1" text="1"/>
+            <up>
+              <vec3f x="0.0000000000" y="0.0000000000" z="1.0000000000"/>
+            </up>
+          </viewpoint>
+          <clipplaneset linked="0" current="0" mode="planes" enabled="1">
+            <range>
+              <box3f>
+                <min>
+                  <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+                </min>
+                <max>
+                  <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+                </max>
+              </box3f>
+            </range>
+            <clipplanes>
+              <clipplane state="enabled" distance="0.0000000000" alignment="custom">
+                <plane distance="-8.7349218450">
+                  <vec3f x="0.0000000000" y="0.0000000000" z="-1.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="bottom">
+                <plane distance="-588.1250580221">
+                  <vec3f x="0.0000000000" y="0.0000000000" z="1.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="front">
+                <plane distance="-2135.3937857989">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="back">
+                <plane distance="-4996.0830754871">
+                  <vec3f x="0.0000000000" y="-1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="left">
+                <plane distance="-2074.3676763668">
+                  <vec3f x="1.0000000000" y="0.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="right">
+                <plane distance="-1870.7514946431">
+                  <vec3f x="-1.0000000000" y="0.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+            </clipplanes>
+            <box>
+              <box3f>
+                <min>
+                  <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+                </min>
+                <max>
+                  <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+                </max>
+              </box3f>
+            </box>
+            <box-rotation>
+              <rotation>
+                <quaternion a="0.0000000000" b="0.0000000000" c="0.0000000000" d="1.0000000000"/>
+              </rotation>
+            </box-rotation>
+          </clipplaneset>
+          <redlines>
+            <rlellipse thickness="3" pattern="65535">
+              <colour red="1.0000000000" green="0.0000000000" blue="1.0000000000"/>
+              <start>
+                <pos2f x="-0.0526705704" y="0.3658723550"/>
+              </start>
+              <end>
+                <pos2f x="0.3574074419" y="0.0536111163"/>
+              </end>
+            </rlellipse>
+            <rlellipse thickness="3" pattern="65535">
+              <colour red="1.0000000000" green="0.0000000000" blue="1.0000000000"/>
+              <start>
+                <pos2f x="-0.8483724017" y="0.3959698238"/>
+              </start>
+              <end>
+                <pos2f x="-0.3385965239" y="0.0216325557"/>
+              </end>
+            </rlellipse>
+          </redlines>
+        </view>
+        <view name="FIRE_VS_MECH_12/19 - *ACTIVE_12/19* " guid="9fde748b-e192-47b8-ba84-05ff67604bfa">
+          <viewpoint tool="navigator_walk" render="shaded" lighting="headlight" linear="50.0000000000" angular="0.7853981634">
+            <camera projection="persp" near="0.1622565624" far="162.2565623686" aspect="1.8161350844" height="0.9218113291">
+              <position>
+                <pos3f x="1479.3061132930" y="1038.9565587862" z="16.9599885094"/>
+              </position>
+              <rotation>
+                <quaternion a="-0.4621906906" b="0.0011254826" c="0.0021593951" d="-0.8867772188"/>
+              </rotation>
+            </camera>
+            <viewer radius="0.9842519685" height="5.9055118110" actual_height="5.9055118110" eye_height="0.4921259843" avatar="" camera_mode="first" first_to_third_angle="0.0000000000" first_to_third_distance="9.8425196850" first_to_third_param="1.0000000000" first_to_third_correction="1" collision_detection="0" auto_crouch="0" gravity="0" gravity_value="32.1522309711" terminal_velocity="164.0419947507"/>
+            <primitives polygons="1" lines="1" points="1" snappoints="1" text="1"/>
+            <up>
+              <vec3f x="0.0000000000" y="0.0000000000" z="1.0000000000"/>
+            </up>
+          </viewpoint>
+          <clipplaneset linked="0" current="0" mode="planes" enabled="0">
+            <range>
+              <box3f>
+                <min>
+                  <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+                </min>
+                <max>
+                  <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+                </max>
+              </box3f>
+            </range>
+            <clipplanes>
+              <clipplane state="default" distance="0.0000000000" alignment="top">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="bottom">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="front">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="back">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="left">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+              <clipplane state="default" distance="0.0000000000" alignment="right">
+                <plane distance="0.0000000000">
+                  <vec3f x="0.0000000000" y="1.0000000000" z="0.0000000000"/>
+                </plane>
+              </clipplane>
+            </clipplanes>
+            <box>
+              <box3f>
+                <min>
+                  <pos3f x="1.0000000000" y="1.0000000000" z="1.0000000000"/>
+                </min>
+                <max>
+                  <pos3f x="0.0000000000" y="0.0000000000" z="0.0000000000"/>
+                </max>
+              </box3f>
+            </box>
+            <box-rotation>
+              <rotation>
+                <quaternion a="0.0000000000" b="0.0000000000" c="0.0000000000" d="1.0000000000"/>
+              </rotation>
+            </box-rotation>
+          </clipplaneset>
+          <redlines>
+            <rlellipse thickness="3" pattern="65535">
+              <colour red="1.0000000000" green="0.0000000000" blue="1.0000000000"/>
+              <start>
+                <pos2f x="-0.0214282867" y="-0.0922347994"/>
+              </start>
+              <end>
+                <pos2f x="0.1658363060" y="-0.2645927579"/>
+              </end>
+            </rlellipse>
+          </redlines>
+        </view>
+      </viewfolder>
+    </viewfolder>
+  </viewpoints>
+</exchange>
