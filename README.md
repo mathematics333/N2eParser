@@ -19,3 +19,11 @@ How to use:
 flowchart TD
     ExportViewpointsToXML --- SaveAs_NwInPut.xml --- Run_N2E --- A_NwOutput.xlsx_getsGenerated --- Copy_ViewpointNames_intoAccTemplate --- import_AccTemplate_intoAcc
 ```
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
