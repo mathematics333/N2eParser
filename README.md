@@ -15,20 +15,8 @@ How to use:
 4. After running the N2eParser, a "NwOutput.xlsx" file will be generated 
 
 
-```Mermaid
-flowchart TD;
-    ExportViewpointsToXML;
-    SaveAs_NwInPut.xml;
-    Run_N2E;
-    A_NwOutput.xlsx_getsGenerated;
-    Copy_ViewpointNames_intoAccTemplate;
-    import_AccTemplate_intoAcc;
+```mermaid
+   graph TD;
+       ExportViewpointsToXML-->SaveAs_NwInPut.xml-->Run_N2E-->A_NwOutput.xlsx_getsGenerated-->Copy_ViewpointNames_intoAccTemplate-->import_AccTemplate_intoAcc;
 ```
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
