@@ -5,6 +5,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 Menu,Tray,Icon, N2eParser.png
 
 ::n2e::
-Run Nw_2_Excel.py
+Run N2E.py
 Return
 
