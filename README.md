@@ -17,6 +17,6 @@ How to use:
 
 ```Mermaid
 flowchart TD
-    ExportViewpointsToXML --- SaveAs_NwInPut.xml --- Run_N2E --- A_NwOutput.xlsx_getsGenerated --- Copy_ViewpointNames_intoAccTemplate ---import_AccTemplate_intoAcc
+    ExportViewpointsToXML --- SaveAs_NwInPut.xml --- Run_N2E --- A_NwOutput.xlsx_getsGenerated --- Copy_ViewpointNames_intoAccTemplate --- import_AccTemplate_intoAcc
 
 ```
