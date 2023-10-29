@@ -6,5 +6,8 @@ Menu,Tray,Icon, N2eParser.png
 
 ::n2e::
 Run N2E.py
+Sleep 1000
+Run E2E.py
 Return
+
 
