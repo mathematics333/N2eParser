@@ -8,7 +8,7 @@
 
 How to use:
 1. Export your Navisworks viewpoints to an an XML file.
-2. The exported XML file must be saved in the N2eParser folder as "NwInput.xml"
+2. The exported XML file must be saved in the N2eParser folder as **NwInput.xml**
 3. To run the N2eParser you can either
    1. Double-click the **N2E.exe**. A blue "</>" icon will appear in your Windows icon notification area on your taskbar and GUI button will appear. Then run each parsing instance by clicking on the **PARSE VIEWPOINTS** button
       1. ![Gui](GuiImage.png)
@@ -21,7 +21,7 @@ How to use:
 
 ```mermaid
    graph TD;
-       ExportViewpointsToXML-->SaveAs_NwInPut.xml-->Run_N2E-->A_NwOutput.xlsx_getsGenerated-->ViewpointNames_autoCopied_intoAccTemplate-->CompleteTemplateInformationAccordingly-->import_AccTemplate_intoAccWebApp;
+       ExportViewpointsToXML-->SaveAs_NwInPut.xml-->Run_N2E.exe-->A_NwOutput.xlsx_getsGenerated-->ViewpointNames_autoCopied_intoAccTemplate-->CompleteTemplateInformationAccordingly-->import_AccTemplate_intoAccWebApp;
        
 ```
 
