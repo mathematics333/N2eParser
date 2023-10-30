@@ -29,7 +29,7 @@ def copy_excel_data(source_file, target_file, sheet_name):
 
 # Specify the file paths and sheet name
 source_file = 'NwOutput.xlsx'
-target_file = '100A360_acc-issues-import-template.xlsx'
+target_file = 'acc-issues-import-template.xlsx'
 sheet_name = 'Sheet1'
 
 # Call the function to copy the data

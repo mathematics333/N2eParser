@@ -11,7 +11,7 @@ return
 
 ButtonClicked:
     Run N2E.py
-    Sleep 1000
+    Sleep 3000
     Run E2E.py
     return
 
